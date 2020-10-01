@@ -18,6 +18,7 @@ alias ls='ls -hAFG'
 alias  l='ls'
 alias ll='ls -l'     # long list
 alias la='ls -A'     # all but . and ..
+alias  ld='ls -ld'    #list dir attribute
 
 # MySQL controlling
 alias mysqlstart='launchctl load -w ~/Library/LaunchAgents/com.mysql.mysqld.plist'
